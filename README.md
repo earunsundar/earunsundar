@@ -47,35 +47,43 @@ links: https://www.linkedin.com/feed/update/urn:li:activity:7099626486692757504?
 * Feb 2020 - Feb 2022 (2 years 1 month) *
 
 ➢ Worked on Rest-Assured, Postman, Gradle, Kafka, Datadog, Grafana.
+
 ➢ Used Serenity framework with Junit and Allure report.
+
 ➢ Created and executed automated test cases in Jenkins and test scripts to uncover, identify and
-document software
-problems and their causes.
+document software problems and their causes.
+
 ➢ Maintained the automated software test cases and scripts in (test case repository) Atlassian-
 Bitbucket.
+
 ➢ Configured Continuous Integration for regression testing and smoke testing through pipeline
-configuration in
-Jenkins.
+configuration in Jenkins.
+
 ➢ Validate Test Cases against the Kafka server logs, DSE Graph logs and legacy Kafka.
-Arun Sundar - page 1
+
 ➢ Experience in RCA documentation for customer reported issues by analysing the server logs.
+
 ➢ Experience in Performance Testing using Gatling and J meter.
+
 ➢ Experience in analyzing the data and metrics from Datadog and Grafana.
+
 ➢ Experience in build, deploy, run & manage the application individually.
-➢ Documented software defects using bug tracking system JIRA and reported defects involving
-program functionality, application.
+
+➢ Documented software defects using bug tracking system JIRA and reported defects involving program functionality, application.
+
 ➢ Hands On experience in maintaining AWS EC2 instances.
-➢ Analyzed business requirements and worked closely with fellow developers to deliver high-quality
-software solutions.
+
+➢ Analyzed business requirements and worked closely with fellow developers to deliver high-quality software solutions.
+
 ➢ Review and secure approvals for the documents developed with Product Manager.
+
 ➢ Participated in Walk-through and defect report meetings periodically.
 
 
 Technical Experience
 --------------------
 
-Programming Languages
-:   
+Programming Languages:   
 
 [ref]: https://github.com/githubuser/superlongprojectname
 
